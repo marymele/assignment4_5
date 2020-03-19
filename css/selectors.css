@@ -49,13 +49,20 @@ input[type=text] {
 }
 
 /* Give both <p>'s inside the 3rd <div> a pink background*/
-
+div:nth-last-of-type(2)>p {
+    background-color: pink;
+}
 
 /* Give the 2nd <p> inside the 3rd <div> a 5px white border*/
-
+div:nth-last-of-type(2)>p:nth-last-of-type(1) {
+    border: solid white 5px;
+}
 
 /* Make the <em> in the 3rd <div> element white and 20px font(font-size:20px)*/
-
+div:nth-last-of-type(2) em {
+    font-size: 20px;
+    color: white;
+}
 
 
 /*BONUS CHALLENGES*/
