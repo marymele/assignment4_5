@@ -23,3 +23,18 @@ div {
 a{
     color: black;
 }
+a:hover{
+    color: rgb(83, 78, 78);
+}
+#cm{
+    border-bottom: solid grey 0.5px;
+}
+.bt{
+    border-bottom: solid grey 0.5px;
+}
+#tb {
+    border-bottom: solid grey 0.5px;
+}
+#fr {
+    border-bottom: solid grey 0.5px;
+}
