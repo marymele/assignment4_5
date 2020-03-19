@@ -1,0 +1,22 @@
+.flag {
+    margin: 1em;
+    height: 150px;
+    width:210px ;
+    position: relative;
+    float: left;
+}
+div .belgium .b{
+    background-color: black;
+    width:70px;
+    margin: 0px;  
+}
+.belgium .y{
+    background-color: yellow;
+    width:70px;
+    margin: 0px;
+}
+.belgium .r{
+    background-color: red;
+    width:70px;
+    margin: 0px;  
+}
