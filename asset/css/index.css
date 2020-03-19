@@ -1,0 +1,25 @@
+body {
+    border-top: solid grey 0.5px;
+    border-bottom: solid grey 0.5px;
+}
+header {
+    border-bottom: solid grey 0.5px;
+}
+header>ul>li{
+    display: inline-block;
+    padding: 10px 3px;
+    font-size: 20px;
+}
+header>ul>li>a {
+    text-decoration: none;
+}
+
+footer{
+    border-bottom: solid grey 0.5px;
+}
+div {
+    border-bottom: solid grey 0.5px;
+}
+a{
+    color: black;
+}
