@@ -57,6 +57,12 @@ header>ul>li>a {
 header>ul>li:hover{
     background-color: rgb(99, 189, 231);
 }
+a{
+    color: black;
+}
+a:hover{
+    color: rgb(83, 78, 78);
+}
 #contact{
     border: solid 1px grey;
     width: 75%;
